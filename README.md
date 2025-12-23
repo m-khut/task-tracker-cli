@@ -8,3 +8,6 @@ Features:
 
 Usage:
  python task_cli.py <command> [arguments]
+
+ Project URL:
+  https://github.com/m-khut/task-tracker-cli
